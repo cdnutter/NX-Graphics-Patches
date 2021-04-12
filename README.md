@@ -1,6 +1,10 @@
 # NX Graphics Patches
 Various 60FPS and Resolution Mods for the Switch (MODDED SWITCH REQUIRED)
 
+There are two ways to use/look at this.
+1. Indivdually drag and drop which ones you want.
+2. Drag all the mods over to your sd card's root directory.
+
 ## Credits
 https://github.com/masagrator/NXGraphicsPatches/
 
