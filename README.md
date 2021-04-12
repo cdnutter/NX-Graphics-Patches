@@ -4,7 +4,7 @@ Various 60FPS and Resolution Mods for the Switch (MODDED SWITCH REQUIRED)
 ## Credits
 https://github.com/masagrator/NXGraphicsPatches/
 
-
+---
 
 # Switch Games
 ### Assassin's Creed Rebel Collection
