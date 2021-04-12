@@ -28,3 +28,23 @@ handheld_charging_gpu=768
 handheld_charging_official_gpu=921
 handheld_charging_mem=1600
 ```
+
+### A Hat in Time
+**Source**: https://gbatemp.net/threads/a-hat-in-time-60-fps-mod.551579/
+```
+; A Hat in Time
+[010056E00853A000]
+handheld_charging_cpu=1224
+handheld_charging_gpu=768
+handheld_charging_mem=1600
+```
+
+### ABZU
+**Source**: https://gbatemp.net/threads/abzu-60-fps-mod.547812/
+```
+; ABZU
+[0100C1300BBC6000]
+handheld_charging_cpu=1224
+handheld_charging_gpu=768
+handheld_charging_mem=1600
+```
