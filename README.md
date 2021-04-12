@@ -1,7 +1,7 @@
 # NX Graphics Patches
 Various 60FPS and Resolution Mods for the Switch (MODDED SWITCH REQUIRED)
 
-# Credits
+## Credits
 https://github.com/masagrator/NXGraphicsPatches/
 
 # Switch Games
