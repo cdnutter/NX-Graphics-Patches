@@ -1,8 +1,8 @@
 # nx-graphics-mods
 Various 60FPS and Resolution Mods for the Switch (MODDED SWITCH REQUIRED)
 
-Assassin's Creed Rebel Collection
-*Source: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/*
+Assassin's Creed Rebel Collection\
+*Source*: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
 ```
 ;Assassin’s Creed 4
 [010044700DEB0000]
