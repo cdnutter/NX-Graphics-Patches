@@ -10,7 +10,7 @@ https://github.com/masagrator/NXGraphicsPatches/
 
 ---
 
-# Switch Games
+# 60 FPS
 ### Assassin's Creed Rebel Collection
 **Source**: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
 ```
