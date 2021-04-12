@@ -2,7 +2,7 @@
 Various 60FPS and Resolution Mods for the Switch (MODDED SWITCH REQUIRED)
 
 # Switch Games
-## Assassin's Creed Rebel Collection\
+### Assassin's Creed Rebel Collection
 **Source**: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
 ```
 ;Assassin’s Creed 4
