@@ -1,8 +1,6 @@
 # Nintendo Switch Graphics Patches
-60 FPS & Resolution Mods
-
-### <div style="color:red">***Modded Switch Required***</div>
-
+60 FPS & Resolution Mods  
+### <div style="color:red">***Modded Switch Required!***</div>  
 **Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
