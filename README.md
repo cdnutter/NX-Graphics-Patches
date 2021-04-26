@@ -20,7 +20,7 @@
 
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop specified elements into respectable folders.  
-*(e.g. ones with Title IDs inside `/atmosphere/titles` and exefs_patches inside `/atmosphere`.)*
+*(e.g. ones with Title IDs inside `/atmosphere/titles` and exefs_patches inside `/atmosphere`)*
 2. Reboot to CFW.
 
 ## Credits
