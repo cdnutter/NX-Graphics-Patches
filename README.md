@@ -1,5 +1,6 @@
 # Nintendo Switch Graphics Patches
 60 FPS & Resolution Mods
+
 ***Modded Switch Required***
 
 There are two ways to use/look at this.
