@@ -7,7 +7,9 @@
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 - [Tesla Menu](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
 
-**Instructions** 
+---
+
+### **Instructions** 
  
 **All-in-One**
 
@@ -29,6 +31,7 @@
 - https://github.com/masagrator/NXGraphicsPatches/
 - https://gbatemp.net/members/kirby567fan.439698/
 - https://gbatemp.net/members/masagrator.467296/
+
 ---
 
 # 60 FPS
