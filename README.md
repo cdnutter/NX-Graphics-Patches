@@ -1,6 +1,6 @@
 # Nintendo Switch Graphics Patches
 60 FPS & Resolution Mods
-### ***Modded Switch Required***
+<span style="color:red">### ***Modded Switch Required***</span>
 
 **Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
