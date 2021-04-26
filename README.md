@@ -7,7 +7,8 @@ There are two ways to use/look at this.
 
 ## Credits
 https://github.com/masagrator/NXGraphicsPatches/
-
+https://gbatemp.net/members/kirby567fan.439698/
+https://gbatemp.net/members/masagrator.467296/
 ---
 
 # 60 FPS
