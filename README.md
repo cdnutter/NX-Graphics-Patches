@@ -1,5 +1,6 @@
 # Nintendo Switch Graphics Patches
 60 FPS & Resolution Mods
+
 <span style="color:red">### ***Modded Switch Required***</span>
 
 **Requirements**
