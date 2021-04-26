@@ -1,11 +1,12 @@
 # Nintendo Switch Graphics Patches
 ### ***Modded Switch Required!***  
-60 FPS & Resolution Mods  
+60 FPS & Resolution Mods
 
 **Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 - [Tesla Menu](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
+- Not supporting sxos (please don't support them)
 
 ---
 
@@ -22,7 +23,7 @@
 
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop specified elements into respectable folders.  
-*(e.g. ones with Title IDs inside `/atmosphere/titles` and exefs_patches inside `/atmosphere`)*
+*(e.g. ones with Title IDs inside `/atmosphere/contents` and exefs_patches inside `/atmosphere`)*
 2. Reboot to CFW.
 
 ![how-to](https://raw.githubusercontent.com/cdnutter/NX-Graphics-Patches/master/resources/how-to.gif)
