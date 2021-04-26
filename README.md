@@ -48,7 +48,7 @@ handheld_charging_gpu=768
 handheld_charging_mem=1600
 ```
 
-### Monster Hunter Rise - *NA Version*
+### Monster Hunter Rise - *(NA)*
 **Source**: https://gbatemp.net/threads/monster-hunter-rise-60-fps-mod.585713/
 ```
 [0100B04011742000]
@@ -57,7 +57,7 @@ handheld_charging_gpu=921
 handheld_charging_mem=1600
 ```
 
-### Monster Hunter Rise - *JP Version*
+### Monster Hunter Rise - *(JP)*
 **Source**: https://gbatemp.net/threads/monster-hunter-rise-60-fps-mod.585713/
 ```
 [0100559011740000]
