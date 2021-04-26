@@ -5,7 +5,7 @@
 **Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-- [Tesla Menu] (https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
+- [Tesla Menu](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
 
 **Instructions**
 1. all-in-one
