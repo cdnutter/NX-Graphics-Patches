@@ -32,5 +32,10 @@
 - https://gbatemp.net/members/kirby567fan.439698/
 - https://gbatemp.net/members/masagrator.467296/
 
-# [60 FPS Patches](https://github.com/cdnutter/NX-Graphics-Patches/master/60FPS.md)
-# ~[Resolution Patches](https://github.com/cdnutter/NX-Graphics-Patches/master/Resolution.md)~
+| 60 FPS Patches | test |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### [60 FPS Patches](https://github.com/cdnutter/NX-Graphics-Patches/master/60FPS.md)
+### ~[Resolution Patches](https://github.com/cdnutter/NX-Graphics-Patches/master/Resolution.md)~
