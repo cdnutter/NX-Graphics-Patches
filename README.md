@@ -21,7 +21,7 @@
 **Individual Packs**
 
 0. Install [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) and [sys-clk](https://github.com/retronx-team/sys-clk) ***properly***
-1. Drag and drop specified elements into respectable folders.  
+1. Drag and drop desired elements into respectable folders.  
 *(e.g. ones with Title IDs inside `/atmosphere/contents` and exefs_patches inside `/atmosphere`)*
 2. Reboot to CFW.
 
