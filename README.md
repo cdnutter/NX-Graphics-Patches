@@ -13,14 +13,14 @@
  
 **All-in-One**
 
-0. Install Atmosphere & sys-clk ***properly***
+0. Install [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) and [sys-clk](https://github.com/retronx-team/sys-clk) ***properly***
 1. Drag and drop all contents *inside* all-in-one folder onto your Switch root directory  
 *(e.g. one with `atmosphere`, `switch`, etc)*
 2. Reboot to CFW.
 
 **Individual Packs**
 
-0. Install Atmosphere & sys-clk ***properly***
+0. Install [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) and [sys-clk](https://github.com/retronx-team/sys-clk) ***properly***
 1. Drag and drop specified elements into respectable folders.  
 *(e.g. ones with Title IDs inside `/atmosphere/contents` and exefs_patches inside `/atmosphere`)*
 2. Reboot to CFW.
