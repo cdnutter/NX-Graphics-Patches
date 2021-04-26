@@ -8,9 +8,8 @@
 - [Tesla Menu](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
 
 **Instructions**
-1. all-in-one
 0. Install Atmosphere & sys-clk **properly**
-2. Drag and drop all contents in all-in-one folder onto your Switch root directory
+1. Drag and drop all contents in all-in-one folder onto your Switch root directory
 
 ## Credits
 - https://github.com/masagrator/NXGraphicsPatches/
