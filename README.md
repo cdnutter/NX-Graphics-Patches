@@ -23,6 +23,8 @@
 *(e.g. ones with Title IDs inside `/atmosphere/titles` and exefs_patches inside `/atmosphere`)*
 2. Reboot to CFW.
 
+![how-to](https://raw.githubusercontent.com/cdnutter/NX-Graphics-Patches/master/resources/how-to.gif)
+
 ## Credits
 - https://github.com/masagrator/NXGraphicsPatches/
 - https://gbatemp.net/members/kirby567fan.439698/
