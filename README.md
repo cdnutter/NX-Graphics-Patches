@@ -9,8 +9,14 @@
 
 **Instructions** 
  
+**All-in-One**
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop all contents *inside* all-in-one folder onto your Switch root directory *(e.g. one with atmosphere, bootloader, switch, etc)*
+2. Reboot to CFW.
+
+**Individual Packs**
+0. Install Atmosphere & sys-clk ***properly***
+1. Drag and drop specified elements into respectable folders. *(e.g. ones with Title IDs inside `/atmosphere/titles` and exe_patches inside `/atmosphere`.
 2. Reboot to CFW.
 
 ## Credits
@@ -20,7 +26,7 @@
 ---
 
 # 60 FPS
-*Note*: Not all games will have 100% stable 60 FPS, these more-or-less uncap the framerate.
+*Note*: Not all games will have 100% stable 60 FPS, these more-or-less uncap the framerate or produce better framerates altogether.
 ### Assassin's Creed Rebel Collection
 **Source**: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
 ```
