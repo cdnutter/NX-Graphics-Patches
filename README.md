@@ -37,6 +37,5 @@
 # 60 FPS
 | [Games](https://github.com/cdnutter/NX-Graphics-Patches/master/60FPS.md) | Details |
 | ----------- | ----------- |
-| A Hat in Time | 60 FPS |
-| ABZU | 60 FPS |
-| Monster Hunter Rise | 60 FPS |
+| BioShock Infinite | exefs_patches |
+| Monster Hunter Rise | exefs_patches, game_mods |
