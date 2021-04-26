@@ -13,14 +13,14 @@
 
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop all contents *inside* all-in-one folder onto your Switch root directory  
-*(e.g. one with atmosphere, bootloader, switch, etc)*
+*(e.g. one with `atmosphere`, `switch`, etc)*
 2. Reboot to CFW.
 
 **Individual Packs**
 
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop specified elements into respectable folders.  
-*(e.g. ones with Title IDs inside `/atmosphere/titles` and exe_patches inside `/atmosphere`.)*
+*(e.g. ones with Title IDs inside `/atmosphere/titles` and exefs_patches inside `/atmosphere`.)*
 2. Reboot to CFW.
 
 ## Credits
