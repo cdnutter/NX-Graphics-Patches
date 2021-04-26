@@ -11,6 +11,7 @@
  
 0. Install Atmosphere & sys-clk ***properly***
 1. Drag and drop all contents *inside* all-in-one folder onto your Switch root directory *(e.g. one with atmosphere, bootloader, switch, etc)*
+2. Reboot to CFW.
 
 ## Credits
 - https://github.com/masagrator/NXGraphicsPatches/
