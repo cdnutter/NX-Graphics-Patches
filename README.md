@@ -3,7 +3,9 @@
 
 ***Modded Switch Required***
 
--
+**Requirements**: 
+- [sys-clk](https://github.com/retronx-team/sys-clk)
+- [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 
 There are two ways to use/look at this.
 1. Indivdually drag and drop which ones you want.
@@ -16,6 +18,7 @@ There are two ways to use/look at this.
 ---
 
 # 60 FPS
+*Note*: Not all games will have 100% stable 60 FPS, these more-or-less uncap the framerate.
 ### Assassin's Creed Rebel Collection
 **Source**: https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
 ```
