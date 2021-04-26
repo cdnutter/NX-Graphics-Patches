@@ -1,15 +1,16 @@
 # Nintendo Switch Graphics Patches
 60 FPS & Resolution Mods
-
 ### ***Modded Switch Required***
 
-**Requirements**: 
+**Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+- [Tesla Menu] (https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
 
-There are two ways to use/look at this.
-1. Indivdually drag and drop which ones you want.
-2. Drag all the mods over to your sd card's root directory.
+**Instructions**
+1. all-in-one
+0. Install Atmosphere & sys-clk **properly**
+2. Drag and drop all contents in all-in-one folder onto your Switch root directory
 
 ## Credits
 - https://github.com/masagrator/NXGraphicsPatches/
