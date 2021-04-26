@@ -35,7 +35,7 @@
 ---
 
 # 60 FPS
-| ### [Games](https://github.com/cdnutter/NX-Graphics-Patches/master/60FPS.md) | Details |
+| [Games](https://github.com/cdnutter/NX-Graphics-Patches/master/60FPS.md) | Details |
 | ----------- | ----------- |
 | A Hat in Time | 60 FPS |
 | ABZU | 60 FPS |
