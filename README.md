@@ -2,7 +2,7 @@
 ### ***Modded Switch Required!***  
 60 FPS & Resolution Mods
 
-**Requirements**
+### **Requirements**
 - [sys-clk](https://github.com/retronx-team/sys-clk)
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - *I'm not supporting SX-OS*
 - [Tesla Menu](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/) - *Recommended, not required*
